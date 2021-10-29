@@ -14,7 +14,7 @@
 <a href="#"><img title="AKBAR" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/akbar141master"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/MONSTER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/akbar141master"><img title="Author" src="https://img.shields.io/badge/Author-Akbar/MONSTER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/akbar141master">Akbar</a> to make
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="akbar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akbar&show_icons=true&theme=dark&locale=en" alt="akbar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=dark" alt="akbar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar&theme=dark" alt="akbar" /></p>
 </p>
 
 
@@ -68,7 +68,7 @@ Click MONSTER logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@MONSTERcreator/MONSTER-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@masterAkbar/pikachu-QR-1)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/akbar141master/botakbar2-.git)
      </div>
@@ -121,7 +121,7 @@ By establishing the MONSTER, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/akbar141master.png?size=100)](https://github.com/akbar141master) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![](https://github.com/akbar141master.png?size=100)](https://github.com/akbar141master) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----|----
 [Akbar](https://github.com/akbar141master) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
